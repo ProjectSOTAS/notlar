@@ -1,4 +1,4 @@
-# Hafta 2
+# Hafta 3
 | Ad Soyad | Tamamlanan Issue | Toplam Değer Üretimi | Katıldığı Toplantılar |
 | -------- | ---------------- | -------------------- | --------------------- |
 | Aysema Mermer | - | - | 0/1 |
@@ -21,3 +21,6 @@
 | Tolga Çalışkan | - | - | 1/1 |
 | Utku Aydoğdu | - | - | 0/1 |
 | Zekeriya Ay | - | - | 1/1 |
+
+## Toplantılar
+- 3 Kasım 2021 22:00 - Discord
